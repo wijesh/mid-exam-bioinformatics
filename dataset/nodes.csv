@@ -1,0 +1,91 @@
+node_id,node_name,node_type
+DS1,Tuberculosis,Disease
+DS2,Hepatitis B,Disease
+DS3,Hepatitis C,Disease
+DS4,Dengue Fever,Disease
+DS5,Malaria,Disease
+DS6,Typhoid Fever,Disease
+DS7,Polio,Disease
+DS8,COVID-19,Disease
+DS9,Diabetes Mellitus,Disease
+DS10,Hypertension,Disease
+DS11,Coronary Artery Disease,Disease
+DS12,Asthma,Disease
+DS13,Chronic Obstructive Pulmonary Disease,Disease
+DS14,Thalassemia,Disease
+DS15,Breast Cancer,Disease
+DS16,Oral Cancer,Disease
+DS17,Lung Cancer,Disease
+DS18,Diarrheal Diseases,Disease
+DS19,Pneumonia,Disease
+DS20,Measles,Disease
+DS21,Leishmaniasis,Disease
+DS22,Chikungunya,Disease
+DS23,Rabies,Disease
+DS24,Iron Deficiency Anemia,Disease
+DS25,Goiter,Disease
+DS26,Obesity,Disease
+DS27,Depression,Disease
+DS28,Anxiety Disorders,Disease
+DS29,Stroke,Disease
+DS30,Cholera,Disease
+D1,Paracetamol,Drug
+D2,Ibuprofen,Drug
+D3,Aspirin,Drug
+D4,Amoxicillin,Drug
+D5,Ciprofloxacin,Drug
+D6,Azithromycin,Drug
+D7,Metformin,Drug
+D8,Insulin,Drug
+D9,Atorvastatin,Drug
+D10,Losartan,Drug
+D11,Amlodipine,Drug
+D12,Omeprazole,Drug
+D13,Salbutamol,Drug
+D14,Montelukast,Drug
+D15,Hydroxychloroquine,Drug
+D16,Artemether,Drug
+D17,Doxycycline,Drug
+D18,Clindamycin,Drug
+D19,Warfarin,Drug
+D20,Heparin,Drug
+D21,Fluoxetine,Drug
+D22,Sertraline,Drug
+D23,Diazepam,Drug
+D24,Prednisolone,Drug
+D25,Morphine,Drug
+D26,Codeine,Drug
+D27,Lisinopril,Drug
+D28,Hydrochlorothiazide,Drug
+D29,Ranitidine,Drug
+D30,Vitamin D,Drug
+G1,BRCA1,Gene
+G2,BRCA2,Gene
+G3,TP53,Gene
+G4,EGFR,Gene
+G5,VEGFA,Gene
+G6,APOE,Gene
+G7,INS,Gene
+G8,HBB,Gene
+G9,CFTR,Gene
+G10,MTHFR,Gene
+G11,FTO,Gene
+G12,IL6,Gene
+G13,TNF,Gene
+G14,ACE,Gene
+G15,SOD1,Gene
+G16,KRAS,Gene
+G17,NRAS,Gene
+G18,BRAF,Gene
+G19,MYC,Gene
+G20,PTEN,Gene
+G21,CDKN2A,Gene
+G22,G6PD,Gene
+G23,ABCA1,Gene
+G24,FOXP3,Gene
+G25,HTT,Gene
+G26,PARK2,Gene
+G27,LRRK2,Gene
+G28,SMN1,Gene
+G29,DMD,Gene
+G30,TSH receptor,Gene

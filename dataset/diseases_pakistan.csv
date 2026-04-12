@@ -1,0 +1,31 @@
+id,name
+DS1,Tuberculosis
+DS2,Hepatitis B
+DS3,Hepatitis C
+DS4,Dengue Fever
+DS5,Malaria
+DS6,Typhoid Fever
+DS7,Polio
+DS8,COVID-19
+DS9,Diabetes Mellitus
+DS10,Hypertension
+DS11,Coronary Artery Disease
+DS12,Asthma
+DS13,Chronic Obstructive Pulmonary Disease
+DS14,Thalassemia
+DS15,Breast Cancer
+DS16,Oral Cancer
+DS17,Lung Cancer
+DS18,Diarrheal Diseases
+DS19,Pneumonia
+DS20,Measles
+DS21,Leishmaniasis
+DS22,Chikungunya
+DS23,Rabies
+DS24,Iron Deficiency Anemia
+DS25,Goiter
+DS26,Obesity
+DS27,Depression
+DS28,Anxiety Disorders
+DS29,Stroke
+DS30,Cholera
